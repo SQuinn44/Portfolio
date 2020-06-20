@@ -1,0 +1,17 @@
+body 
+{
+    background: #cccccc
+}
+
+#Header a:hover
+{
+color: #FFF
+}
+
+#bg-img
+{
+    background: url('../img/HayClutch.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 800px;
+}
