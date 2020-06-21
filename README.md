@@ -1,2 +1,3 @@
 # Portfolio
-Week 2/3 Homework Portfolio Bootstrap Project
+Working portfolio featuring bootstrap
+A full portfolio of Sarah Quinn Photography, including an about me, a contact form, and examples of previous work.
