@@ -47,3 +47,14 @@ color: #FFF
     border-width: 2px;
     margin-top: 06px; 
 }
+
+#Portfolio span
+{
+    padding: 10px 20px 10px 20px; 
+}
+
+#Portfolio hr
+{
+    border-width: 2px;
+    margin-top: 06px; 
+}
