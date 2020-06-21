@@ -15,3 +15,23 @@ color: #FFF
     background-repeat: no-repeat;
     min-height: 800px;
 }
+
+#About
+{
+    margin-top: -150px;
+}
+
+#About .fa
+{
+    color:#FFF;
+}
+
+#About span 
+{
+    padding: 10px 20px 10px 20px;
+}
+
+#About hr
+{
+    border-width: 3px;
+}
